@@ -14,3 +14,8 @@ How to use
 ==========
 
 See either ``example.py`` or Jupyter notebook ``Viola-Jones Example.ipynb``.
+
+Implementation details
+==========
+
+See [report.pdf](https://github.com/mogolola/Viola-jones_face_detector/blob/master/report.pdf)
